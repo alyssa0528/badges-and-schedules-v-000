@@ -14,4 +14,5 @@ def assign_rooms(attendees)
   room_counter = 1 
   "Hello, #{name}! You'll be assigned to room #{room-counter}!"  
     room_counter += 1 
+  end 
 end
