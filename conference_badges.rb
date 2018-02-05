@@ -20,7 +20,7 @@ def assign_rooms(attendees)
   room_assignments[counter] = "Hello, #{name}! You'll be assigned to room #{index + 1}!"  
   counter += 1 
   end 
-  attendees
+  room_assignments
 end
 
 def printer(attendees)
